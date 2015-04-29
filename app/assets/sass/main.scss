@@ -2,10 +2,5 @@
 @import "icons/*.png";
 
 @include all-icons-sprites;
+@import "base";
 
-.browsehappy {
-    margin: 0.2em 0;
-    background: #ccc;
-    color: #fff;
-    padding: 0.2em 0;
-}
